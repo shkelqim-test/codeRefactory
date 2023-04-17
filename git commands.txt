@@ -1,0 +1,3 @@
+git config --global user.name "shkelqim-test"
+git config --global user.email shkelqim.hajrizi95@gmail.com
+git congig --list
